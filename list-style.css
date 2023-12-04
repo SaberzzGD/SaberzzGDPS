@@ -1,0 +1,215 @@
+body{
+    background: linear-gradient(to left, yellow, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1{
+    font-size: 70px;
+}
+.navbar ul{
+    list-style: none;
+    background-color: rgb(48, 42, 42);
+    padding: 0px;
+    margin: 0px;
+    border-color: cyan;
+    border: 5px;
+    overflow: hidden;
+    font-size: 55px;
+    text-align: center;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(34, 30, 30);
+}
+.navbar li{
+    float: left;
+}  
+#box1{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(jkblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box2{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;   
+    background-image: url(happyblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box3{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(tohppblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box4{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(crimcaveblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box5{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(fcrblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box6{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(rclblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box7{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(sgd1blur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box8{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(goofyblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box9{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(balfunblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box10{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(yft.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box11{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(trmi.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box12{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(misblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box13{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(cwblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+#box14{
+    border: 5px solid black;
+    width: 2000px;
+    height: 400px;
+    font-size: 75px;
+    margin-left: 10px;
+    background-image: url(wcbblur.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white
+}
